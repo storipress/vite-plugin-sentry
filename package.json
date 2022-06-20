@@ -1,5 +1,5 @@
 {
-  "name": "vite-plugin-sentry",
+  "name": "@storipress/vite-plugin-sentry",
   "description": "The unofficial Sentry plugin for Vite ⚡️",
   "version": "1.0.15",
   "author": "ikenfin",
@@ -53,5 +53,8 @@
   },
   "engines": {
     "node": ">= 12"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

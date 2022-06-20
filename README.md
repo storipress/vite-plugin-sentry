@@ -4,6 +4,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 [![Twitter: realtominoff](https://img.shields.io/twitter/follow/realtominoff.svg?style=social)](https://twitter.com/realtominoff)
 
+This is a temporary fork of the original [vite-plugin-sentry](https://github.com/ikenfin/vite-plugin-sentry) repository. This fork is intended to be used as a temporary solution for the following issue:
+- [#12 Add SENTRY_RELEASES to HTML file or environment variable](https://github.com/ikenfin/vite-plugin-sentry/issues/12)
+
 > Vite plugin acts as interface to SentryCLI
 
 It's a port of official [Sentry webpack plugin](https://github.com/getsentry/sentry-webpack-plugin) for Vite.
